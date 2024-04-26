@@ -8,7 +8,6 @@ Este repositório contém uma cópia de backup do firmware para o teclado BY Tec
 - **Número de Série**: RD-K624P-KRS
 - **Código do Produto**: RD-K624P-KRS
 - **Entrada de Carga**: 5V = 1A
-- **FCC ID**: TUVEK1802
 - **Fabricação**: Feito na China
 
 Este firmware é especificamente para o modelo acima mencionado e foi criado usando a `sinowealth-kb-tool`, desenvolvida por carlossless. Esta ferramenta é uma aplicação de código aberto destinada a manipular dispositivos baseados em Sinowealth 8051.
@@ -91,7 +90,6 @@ This repository contains a backup copy of the firmware for the BY Tech Gaming Ke
 - **Serial Number**: RD-K624P-KRS
 - **Product Code**: RD-K624P-KRS
 - **Power Input**: 5V = 1A
-- **FCC ID**: TUVEK1802
 - **Manufactured in**: China
 
 This firmware is specifically for the above-mentioned model and was created using the `sinowealth-kb-tool`, developed by carlossless. This tool is an open-source application designed to manipulate devices based on the Sinowealth 8051.
